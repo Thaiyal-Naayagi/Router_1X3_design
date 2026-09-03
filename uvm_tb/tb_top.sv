@@ -1,4 +1,4 @@
-`include "router_interface.sv"
+`include "interface.sv"
 
 module router_tb_top;
         `include "uvm_macros.svh"
